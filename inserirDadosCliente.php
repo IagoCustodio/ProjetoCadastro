@@ -15,6 +15,23 @@
 		'$altura')";
 		$query = mysqli_query($conn,$sql);
 		echo "Dados cadastrado com sucesso";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 	}
 	else
 	{
