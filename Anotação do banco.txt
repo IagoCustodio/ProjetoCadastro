@@ -8,7 +8,6 @@ create table tbempresa(
     telefone_empresa varchar(12) not null
 );
 
-
 create table tbcliente(
 cod int auto_increment primary key,
 nome varchar(90),
