@@ -1,0 +1,23 @@
+create database bdescola;
+use bdescola;
+
+create table tbempresa(
+	cod_empresa int not null primary key auto_increment,
+    nome_empresa varchar(50) not null,
+    descricao_empresa varchar(50) not null,
+    telefone_empresa varchar(12) not null
+);
+
+
+create table tbcliente(
+cod int auto_increment primary key,
+nome varchar(90),
+idade int,
+datanasc date,
+salario decimal(6,2),
+altura float
+
+);
+
+
+

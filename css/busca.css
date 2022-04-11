@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container{
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: auto;
+    margin-top: 15%;
+    padding: 50px;
+    width: 30%;
+    background-color: #fff;
+    
+}
+
+button, input, optgroup, select, textarea {
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #fff;
+    border: solid 1px;
+} 
+
+.bg-light {
+    background-color: #2e72b6!important;
+    padding: 15px;
+}
+
+
+
+
+
